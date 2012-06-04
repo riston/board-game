@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/server-client/!svn/ver/49/trunk/src/server/base
+END
+SessionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/server-client/!svn/ver/49/trunk/src/server/base/SessionHandler.java
+END
+ActiveSessions.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/server-client/!svn/ver/46/trunk/src/server/base/ActiveSessions.java
+END
+Broadcaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/server-client/!svn/ver/46/trunk/src/server/base/Broadcaster.java
+END

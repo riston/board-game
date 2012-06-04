@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/server-client/!svn/ver/50/trunk/src/game
+END
+Board.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/server-client/!svn/ver/48/trunk/src/game/Board.java
+END
+Turn.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/server-client/!svn/ver/28/trunk/src/game/Turn.java
+END
+GameState.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/server-client/!svn/ver/36/trunk/src/game/GameState.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/server-client/!svn/ver/47/trunk/src/game/Player.java
+END
